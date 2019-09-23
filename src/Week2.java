@@ -24,6 +24,7 @@ public class Week2 {
          * input - 12/01/1999
          * output - December 12, 1999
          *
+         *
          **/
 
         Scanner input = new Scanner(System.in);
